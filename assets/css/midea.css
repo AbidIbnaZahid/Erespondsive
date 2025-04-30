@@ -1,0 +1,783 @@
+@media(max-width:1200px){
+     .page-weight {
+    max-width: 990px;
+  }
+  .product-section,.balance,.slider,.size,.gelary,.power,.faq {
+    margin-top: 50px;
+}
+.slag h1 {
+    font-size: 46px;
+}
+.price {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.delivery span {
+    padding: 6px 7px;
+    font-size: 15px !important;
+}
+.learn {
+    margin-bottom: 25px;
+}
+.delivery {
+    gap: 2px;
+    margin-bottom: 15px;
+}
+}
+
+
+
+@media(max-width:1200px) and (min-width:992px){
+.product-section,.balance,.slider,.size,.gelary,.power,.faq {
+    margin-top: 45px;
+}
+ .page-weight {
+    width: 900px;
+  }
+  .p-img {
+    margin-right: 45px;
+}
+.slag li {
+    font-size: 13px;
+}
+  .slag h1 {
+    font-size: 40px;
+    font-weight: 500;
+    }
+    .learn p {
+    font-size: 16px;
+}
+.menu ul {
+    display: flex;
+    gap: 7px;
+}
+.logo {
+    max-width: 10%;
+}
+.menu ul li {
+    padding: 16px 25px;
+    list-style: none;
+    font-size: 20px;
+}
+.sizes li button {
+    padding: 4px 17px;
+    font-size: 17px;
+}
+.learn span {
+    font-size: 17px !important;
+}
+.learn .sbg {
+    padding: 1px 5px;
+}
+.price {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.swatchs {
+    gap: 3px;
+    margin-bottom: 25px;
+}
+
+.slag {
+    margin-bottom: 20px;
+}
+.quantity {
+    margin-bottom: 25px;
+}
+.addtobtn {
+    padding: 7px 0;
+    font-size: 20px;
+    margin-bottom: 13px;
+}
+.learn {
+    margin-bottom: 25px;
+}
+.delivery span {
+    padding: 6px 5px;
+    font-size: 13px !important;
+}
+.balance .mainContent1-3 i {
+    font-size: 25px;
+}
+.size .page-weight {
+    width: 900px;
+}
+.balance .mainContent1-3 h4 {
+    font-size: 25px;
+}
+.balance .mainContent1-3 p {
+    font-size: 18px;
+    color: #4c5155;
+}
+.balance .row {
+    gap: 50px;
+}
+.gimg {
+    margin-top: 50px;
+}
+}
+
+@media(max-width:991px) and (min-width: 768px ) {
+    .page-weight, .size .page-weight{
+        max-width: 700px;
+    }
+    .product-section, .balance, .slider, .size, .gelary, .power, .faq {
+    margin-top: 30px;
+}
+.slag ul {
+    font-size: 9px;
+}
+.menu ul li {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.logo img {
+    max-width: 70%;
+}
+.list-icon {
+    gap: 10px;
+    font-size: 15px;
+}
+.menu ul {
+    display: flex;
+    gap: 10px;
+}
+.slag h1,h1 {
+    font-size: 30px;
+}
+.sizes li button {
+    padding: 5px 17px;
+    font-size: 12px;
+}
+.rateing .star,.rateing p {
+    font-size: 12px;
+}
+.addtobtn {
+    padding: 6px 0px;
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+.quantity,.sizes  {
+    margin-bottom: 20px;
+}
+.price {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.varient ul {
+    gap: 2px;
+}
+.swatchs {
+    margin-bottom: 15px;
+}
+.learn {
+    margin-bottom: 15px;
+}
+.learn p{
+    text-align: center;
+}
+.learn span {
+    font-size: 14px !important;
+}
+.faq-question {
+    font-size: 19px;
+}
+.delivery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.delivery>div {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.delivery span {
+    padding: 7px 10px;
+    font-size: 14px !important;
+}
+.balance .row {
+    gap: 15px;
+}
+.balance .mainContent1-3 h4 {
+    font-size: 22px;
+}
+.balance .mainContent1-3 p {
+    font-size: 17px;
+}
+.gimg {
+    margin-top: 30px;
+    text-align: center;
+}
+.gimg h1 {
+    font-size: 15px;
+    font-weight: 600;
+}
+.gimg p {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+.gimg h6 {
+    font-size: 21px;
+    font-weight: 600;
+}
+.discount {
+    width: 55px;
+    height: 55px;
+}
+.discount h4 {
+    font-size: 16px;
+}
+}
+
+@media(max-width:767px) and (min-width: 600px ) {
+        .page-weight, .size .page-weight{
+        max-width: 550px;
+    }
+    .product-section, .balance, .slider, .size, .gelary, .power, .faq {
+    margin-top: 30px;
+}
+.slag ul {
+    font-size: 7px;
+}
+.menu ul li {
+    padding: 6px 5px;
+    font-size: 15px;
+}
+.list-icon {
+    gap: 15px;
+    font-size: 15px;
+}
+
+.logo img{
+    max-width: 50%;
+}
+.menu ul {
+    gap: 10px;
+}
+.slag h1,h1 {
+    font-size: 25px;
+}
+.learn span {
+    font-size: 10px !important;
+}
+.learn p {
+    font-size: 15px;
+}
+.learn a {
+    margin-left: 10px;
+}
+.p-img {
+    margin-right: 35px;
+}
+.price {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.current-p h5,del  {
+    font-size: 25px;
+}
+.varient .swatchs button {
+    border-radius: 5px;
+}
+.swatchs {
+    margin-bottom: 15px;
+}
+.slag {
+    margin-bottom: 15px;
+}
+.sizes li button {
+    padding: 1px 5px;
+    font-size: 11px;
+}
+.quantity {
+    margin-bottom: 20px;
+}
+.sizes {
+    margin-bottom: 20px;
+}
+.addtobtn {
+    padding: 7px 0;
+    font-size: 17px;
+}
+.delivery {
+    flex-direction: column;
+    text-align: center;
+}
+.delivery span {
+    padding: 5px 5px;
+    font-size: 12px !important;
+}
+.delivery>div{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.faq-question {
+    font-size: 18px;
+}
+.balance .row {
+    gap: 10px;
+}
+.balance .mainContent1-3 i {
+    font-size: 17px;
+}
+.balance .mainContent1-3 h4 {
+    font-size: 17px;
+    font-weight: 600;
+}
+.balance .mainContent1-3 p {
+    font-size: 13px;
+    margin-bottom: 25px;
+}
+.balance .mainContent1-3 .conDesc {
+    gap: 8px;
+}
+.rateing .star,.rateing p {
+    font-size: 11px;
+}
+.gimg h1 {
+    font-size: 12px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.gimg {
+    margin-top: 20px;
+}
+.gimg p {
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+.gimg h6 {
+    font-size: 18px;
+}
+.balance .heading p {
+    margin-bottom: 25px;
+}
+.discount {
+    width: 45px;
+    height: 45px;
+}
+.discount h4 {
+    font-size: 13px;
+}
+}
+@media(max-width:599px) and (min-width: 499px ) {
+  .product-section, .balance, .slider, .size, .gelary, .power, .faq {
+    margin-top: 35px;
+} 
+   .page-weight {
+    max-width: 465px;
+  }
+    .menu ul {
+    gap: 5px;
+}
+.menu ul li,.list-icon  {
+    display: none;
+}
+
+.logo {
+    max-width: 13%;
+    padding: 5px 5px;
+}
+    .product-section .row {
+    flex-direction: column;
+    align-items: center;
+    }
+    .p-img {
+    max-width: 81%;
+    margin-right: 0px;
+}
+.anotherimg {
+    gap: 5px;
+}
+.anotherimg div.fff {
+    max-width: 100%;
+}
+.smallImg {
+    max-width: 24% !important;
+    margin-bottom: 10px;
+}
+.p-content{
+    margin-top: 20px;
+}
+.p-content {
+    margin-top: 20px;
+    text-align: center;
+}
+.slag ul {
+    justify-content: center;
+}
+.slag li {
+    font-size: 13px;
+}
+.slag h1 {
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 6px;
+}
+.rateing {
+    justify-content: center;
+    font-size: 12px;
+}
+.price {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    justify-content: center;
+}
+.current-p h5, .discout-p del {
+    font-size: 25px;
+}
+.dis {
+    justify-content: center;
+}
+.dis .detals p {
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+.discout-p {
+    margin-bottom: 10px;
+}
+.p-content span {
+    font-size: 13px !important;
+    padding: 4px 5px !important;
+}
+.varient .swatchs li {
+    max-width: 10%;
+}
+.learn {
+    margin-bottom: 10px;
+}
+.swatchs {
+    gap: 5px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+.sizes {
+    gap: 5px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+.sizes li button {
+    padding: 2px 10px;
+    font-size: 10px;
+}
+.slag {
+    margin-bottom: 12px;
+}
+.quantity div {
+    padding: 2px 2px;
+}
+.quantity {
+    justify-content: center;
+}
+.quantity {
+    margin-bottom: 15px;
+}
+.addtobtn {
+    width: 50%;
+    padding: 6px 0;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.learn p {
+    font-size: 16px;
+}
+.delivery {
+    gap: 2px;
+    margin-bottom: 15px;
+    justify-content: center;
+}
+.faq-container {
+    width: 80%;
+    margin: auto;
+}
+.faq-question {
+    font-size: 17px;
+}
+.balance .heading h1 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.balance .heading p {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.divider {
+    margin-bottom: 5px;
+}
+
+.balance .row {
+    gap: 5px;
+}
+.learn a {
+    margin-left: 9px;
+}
+.size .page-weight {
+    max-width: 465px;
+}
+.balance .mainContent1-3 h4 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.balance .mainContent1-3 i {
+    font-size: 15px;
+}
+.balance .mainContent1-3 .conDesc {
+    gap: 5px;
+}
+.balance .mainContent1-3 p {
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.balance .heading p {
+    font-size: 14px;
+}
+.gelary .row {
+   gap: 0px;
+   flex-direction: column;
+}
+.slider .row,.power .row {
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+}
+.gimg {
+    margin-top: 20px;
+    box-shadow: 1px 1px 5px #8b987fa6;
+    padding: 10px 0;
+}
+.gimages {
+    max-width: 80%;
+    margin: auto;
+}
+.gimg h1 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+    text-align: center;
+}
+.gimg p, .gimg h6  {
+    text-align: center;
+}
+.faq .faq-container {
+    width: 100%;
+    margin: auto;
+}
+.pcontent{
+    margin-bottom: 10px;
+}
+}
+@media(max-width:498px) and (min-width: 375px ) {
+    .page-weight, .size .page-weight{
+        max-width: 350px;
+    }
+    .product-section, .balance, .slider, .size, .gelary, .power, .faq {
+    margin-top: 20px;
+}
+.product-section .row {
+    flex-direction: column;
+    align-items: center;
+}
+.p-img {
+    max-width: 80%;
+    margin-right: 0px;
+}
+.menu {
+    display: none;
+}
+.logo {
+    max-width: 20%;
+    padding: 10px 0;
+}
+.list-icon {
+    display: none;
+}
+.anotherimg {
+    gap: 3px;
+}
+.smallImg{
+    width: 24%;
+}
+.slag li {
+    font-size: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.slag h1 {
+    font-size: 27px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.rateing {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    font-size: 13px;
+}
+.price {
+    margin-top: 2px;
+    margin-bottom: -8px;
+    justify-content: center;
+}
+.current-p h5,.discout-p h5 {
+    font-size: 25px;
+}
+.dis {
+    gap: 5px;
+    justify-content: center;
+}
+.slag,.swatchs {
+    margin-bottom: 15px;
+}
+.varient .swatchs li {
+    max-width: 14%;
+}
+.swatchs {
+    gap: 2px;
+    justify-content: center;
+}
+.varient .swatchs button {
+    border-radius: 5px;
+}
+.sizes li button {
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+.sizes {
+    gap: 2px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    justify-content: center;
+}
+.quantity {
+    margin-bottom: 15px;
+    justify-content: center;
+}
+.p-content span {
+    font-size: 17px;
+}
+.addtobtn {
+    width: 100%;
+    padding: 7px 0;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.learn p {
+    font-size: 14px;
+    text-align: center;
+}
+.learn span {
+    font-size: 15px !important;
+}
+.delivery {
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
+.delivery span {
+    padding: 5px 7px;
+    font-size: 14px !important;
+}
+.faq-container {
+    margin: auto;
+}
+.faq-question {
+    font-size: 20px;
+}
+.balance .heading h1,h1 {
+    margin-bottom: 5px;
+    font-size: 24px;
+}
+.balance .heading p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.balance .mainContent1-3 i {
+    font-size: 15px;
+}
+.divider {
+    width: 100%;
+    height: 1px;
+    background-color: var(--dark-color);
+    margin-bottom: 5px;
+}
+.balance .mainContent1-3 .conDesc {
+    gap: 4px;
+    flex-direction: column;
+    align-items: center;
+}
+.balance .row {
+    gap: 5px;
+}
+.balance .mainContent1-3 h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 2px;
+    text-align: center;
+}
+.balance .mainContent1-3 p {
+    font-size: 14px;
+    font-weight: 200;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.slider .row {
+    gap: 10px;
+    flex-direction: column;
+}
+.slider img,.gimages {
+    max-width: 80%;
+    margin: auto;
+}
+.slider .image {
+    text-align: center;
+
+}
+.size .heading {
+    margin-bottom: 20px;
+}
+.row {
+    flex-direction: column;
+}
+.gimg {
+    margin-top: 20px;
+}
+.gimages img{
+    text-align: center;
+}
+.gimg h1 {
+    font-size: 18px;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-top: 12px;
+}
+.gimg p {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.gimg h6 {
+    font-size: 18px;
+    text-align: center;
+}
+.pcontent {
+    margin-top: 10px;
+}
+footer p {
+    padding: 6px 0;
+    font-size: 11px;
+}
+.discount {
+    width: 35px;
+    height: 36px;
+}
+.discount h4 {
+    font-size: 12px;
+}
+}
