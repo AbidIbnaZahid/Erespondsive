@@ -226,7 +226,7 @@
     height: 55px;
 }
 .discount h4 {
-    font-size: 16px;
+    font-size: 17px;
 }
 }
 
@@ -338,7 +338,7 @@
 .gimg h1 {
     font-size: 12px;
     margin-top: 8px;
-    margin-bottom: 8px;
+    padding-bottom: 8px;
 }
 .gimg {
     margin-top: 20px;
@@ -554,7 +554,7 @@
 .gimg h1 {
     font-size: 20px;
     font-weight: 500;
-    margin-top: 10px;
+    padding-top: 10px;
     text-align: center;
 }
 .gimg p, .gimg h6  {
@@ -593,6 +593,8 @@
 .list-icon {
     display: none;
 }
+
+
 .anotherimg {
     gap: 3px;
 }
@@ -755,7 +757,7 @@
     text-align: center;
     width: 70%;
     margin: auto;
-    margin-top: 12px;
+    padding-top: 12px;
 }
 .gimg p {
     font-size: 14px;

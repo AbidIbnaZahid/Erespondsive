@@ -440,7 +440,7 @@ del{
     margin-top: 100px;
 }
 .balance .row{
-    gap: 60px;
+    gap: 45px;
 }
 .balance .heading{
     text-align: center;
@@ -465,7 +465,8 @@ del{
 .balance .mainContent1-3 .conDesc{}
 .balance .mainContent1-3 .conDesc{
     display: flex;
-    gap: 15px;
+    gap: 10px;
+    padding: 10px 10px;
 }
 .balance .mainContent1-3 i{
     font-size: 29px;
@@ -542,10 +543,10 @@ del{
     transform: scale(1.1);
    
 }
-.gimg h1{
+.gimg h1 {
     font-size: 23px;
     font-weight: 300;
-    margin-top: 15px;
+    padding-top: 15px;
     text-align: center;
 }
 .gimg p{
@@ -561,6 +562,9 @@ del{
 }
 .gimg{
 transition-duration: .4s;
+}
+.gimg img{
+    display: block;
 }
 .gcontent{
 position: relative;
@@ -586,6 +590,9 @@ transition-duration: .4s;
     content: "";
     background-color: #1a1819;
 }
+.gimg:hover{
+     box-shadow: 1px 1px 5px #8b987fa6;
+}
 .gimg:hover .gcontent{
      background-color: #58695326;
 }
@@ -608,7 +615,10 @@ transition-duration: .4s;
     transition: .4s;
     padding: 10px 0;
 }
-.pcontent:hover{
+.conDesc{
+    transition: .4s;
+}
+.pcontent:hover,.conDesc:hover{
     box-shadow: 1px 1px 5px #8b987fa6;
     
 }
